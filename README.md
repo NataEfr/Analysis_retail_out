@@ -35,3 +35,6 @@
 
 — Использование функции QUERY для аналитических запросов к данным.
 
+
+## Для просмотра дашбордов используйте ссылку: 
+https://docs.google.com/spreadsheets/d/16sN-F6Z802RkSlfBKKHG1eSQxGqBiVGCk662QoyXL20/edit?usp=sharing
