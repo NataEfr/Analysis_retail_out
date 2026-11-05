@@ -38,3 +38,6 @@
 
 ## Для просмотра дашбордов используйте ссылку: 
 https://docs.google.com/spreadsheets/d/16sN-F6Z802RkSlfBKKHG1eSQxGqBiVGCk662QoyXL20/edit?usp=sharing
+
+## Для просмотра презентации используйте ссылку: 
+https://docs.google.com/presentation/d/1oifX1_CH548FJg7cimVBOqrcTK-2HIts/edit?usp=sharing&ouid=113945614197255349090&rtpof=true&sd=true
