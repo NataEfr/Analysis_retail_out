@@ -39,8 +39,8 @@
 ## Для просмотра дашбордов используйте ссылку: 
 https://docs.google.com/spreadsheets/d/16sN-F6Z802RkSlfBKKHG1eSQxGqBiVGCk662QoyXL20/edit?usp=sharing
 
-## Для просмотра презентации по выводам используйте ссылку (файл слишком большой для просмотра, поэтому его требуется скачать): 
-https://docs.google.com/presentation/d/1oifX1_CH548FJg7cimVBOqrcTK-2HIts/edit?usp=sharing&ouid=113945614197255349090&rtpof=true&sd=true
+## Для просмотра презентации по выводам используйте файл "Анализ крупной торговой сети.pptx" (в списке файлов): 
+(https://github.com/NataEfr/Analysis_retail_out/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D0%BE%D0%B9%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%81%D0%B5%D1%82%D0%B8.pptx)
 
 ### Помимо основной задачи нужно было разобраться в отчете-калькуляторе коллеги, который уволился.
 
